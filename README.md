@@ -5,3 +5,12 @@
 
 
 https://telegra.ph/A-method-for-reducing-internet-traffic-by-a-third-and-connecting-to-free-internet-by-iSegaro-11-17
+
+
+## اجرا روی Termux
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/Bale/main/termux.sh)
+```
+![9](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/8.jpg)
+- با گزینه 1 نصب و اجرا کنید. 
+- برای اجرای مجدد گزینه ی 2 رو انتخاب کنید. 
