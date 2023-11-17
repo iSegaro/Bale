@@ -8,9 +8,9 @@ https://telegra.ph/A-method-for-reducing-internet-traffic-by-a-third-and-connect
 
 
 ## اجرا روی Termux
-![9](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/8.jpg)
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/Bale/main/termux.sh)
 ```
+![9](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/8.jpg)
 - با گزینه 1 نصب و اجرا کنید. 
 - برای اجرای مجدد گزینه ی 2 رو انتخاب کنید. 
