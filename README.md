@@ -7,8 +7,8 @@
 https://telegra.ph/A-method-for-reducing-internet-traffic-by-a-third-and-connecting-to-free-internet-by-iSegaro-11-17
 
 
-# اجرا روی Termux
-
+## اجرا روی Termux
+![9](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/8.jpg)
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/Bale/main/termux.sh)
 ```
